@@ -1,0 +1,15 @@
+{
+  "name": "swagger-faker-exemple",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "swagger-faker gen && swagger-faker run",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "swagger-faker": "^3.3.0"
+  }
+}
